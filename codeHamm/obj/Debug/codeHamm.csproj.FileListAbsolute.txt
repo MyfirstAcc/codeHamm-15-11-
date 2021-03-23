@@ -1,0 +1,10 @@
+D:\Projects\codeHamm\codeHamm\bin\Debug\codeHamm.exe
+D:\Projects\codeHamm\codeHamm\bin\Debug\codeHamm.pdb
+D:\Projects\codeHamm\codeHamm\obj\Debug\codeHamm.exe
+D:\Projects\codeHamm\codeHamm\obj\Debug\codeHamm.pdb
+D:\Projects\codeHamm\codeHamm\obj\Debug\codeHamm.csprojAssemblyReference.cache
+D:\study\уеба\1 курс\теория информации\кодирование Хемминг\codeHamm\codeHamm\codeHamm\bin\Debug\codeHamm.exe
+D:\study\уеба\1 курс\теория информации\кодирование Хемминг\codeHamm\codeHamm\codeHamm\bin\Debug\codeHamm.pdb
+D:\study\уеба\1 курс\теория информации\кодирование Хемминг\codeHamm\codeHamm\codeHamm\obj\Debug\codeHamm.csprojAssemblyReference.cache
+D:\study\уеба\1 курс\теория информации\кодирование Хемминг\codeHamm\codeHamm\codeHamm\obj\Debug\codeHamm.exe
+D:\study\уеба\1 курс\теория информации\кодирование Хемминг\codeHamm\codeHamm\codeHamm\obj\Debug\codeHamm.pdb
